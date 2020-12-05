@@ -33,7 +33,7 @@ public class ScrollDemoTest {
 		 
 		 
 		 
-		// Extract the text and verify
+		// Extract the text and verify the elements
 		 
 		System.out.println(element.getText());
 		 
